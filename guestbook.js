@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/testlabs426_AJ%20Johnson/guestbook/save-guestbook-entry-sequence';
+const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/testlabs426_AJ%20Johnson/guestbook/save-guestbook-entry-sequence.json';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
